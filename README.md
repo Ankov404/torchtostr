@@ -1,5 +1,4 @@
-# stringio
-Stringio Python Package
+Torch To Str Python Package
 
 This free, open-source project aims to simplify arrays of transport of torch tensors over the Internet.
 
