@@ -6,7 +6,7 @@ def readme():
 
 setup(
   name='torchtostr',
-  version='1.1.2',
+  version='1.1.3',
   author='ankov',
   description='Module for quick and simple transportation of torch tensors arrays by converting them to str and back',
   long_description=readme(),
@@ -20,6 +20,6 @@ setup(
   ],
   keywords='tensors strings torch pytorch',
   project_urls={
-    'GitHub': 'https://github.com/Ankov404/stringio'
+    'GitHub': 'https://github.com/Ankov404/torchtostr'
   }
 )
