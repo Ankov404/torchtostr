@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: stringio
+Version: 1.0.0
+Summary: Module for quick and simple transportation of torch tensors arrays by converting them to str and back
+Home-page: home_link
+Author: ankov
+Project-URL: GitHub, https://github.com/Ankov404/stringio
+Keywords: tensors strings torch pytorch
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: torchaudio
+Requires-Dist: numpy
+
+# stringio
+Stringio Python Package
+
+This free, open-source project aims to simplify arrays of transport of torch tensors over the Internet.
+
+The package includes two functions, one of which converts massive torch tensors into simple ones for transport and text decryption.
+
+The function "tensors_to_string(data: list)" takes an array of torch tensors as arguments and returns text with the transformed torch tensors.
+
+The function "string_to_tensors(data: str)" has the exact opposite effect
+
+Enjoy your use :-)
+
+by Ankov
