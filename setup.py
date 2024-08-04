@@ -6,7 +6,7 @@ def readme():
 
 setup(
   name='torchtostr',
-  version='1.1.7',
+  version='1.2',
   author='ankov',
   description='Module for quick and simple transportation of torch tensors arrays by converting them to str and back',
   long_description=readme(),
