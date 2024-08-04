@@ -1,1 +1,1 @@
-import torchtostr
+from package import torchtostr
